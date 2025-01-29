@@ -40,7 +40,7 @@ wp-auto-magic-debugger/
 1️⃣ **Download & Install**
 - Clone the repo or download the ZIP file:
   ```bash
-  git clone https://github.com/yourusername/wp-auto-magic-debugger.git
+  git clone https://github.com/iammaksudul/wp-auto-magic-debugger.git
   ```
 - Upload to the `wp-content/plugins/` directory
 - Activate the plugin from **WordPress Admin > Plugins**
