@@ -86,5 +86,5 @@ If you find this plugin useful, please ⭐ star this repo on GitHub!
 
 ### 🔗 **Connect With Me**
 📧 Email: [dm@maksudulalam.com](mailto:dm@maksudulalam.com)  
-🔗 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/khmaksudulalam/))  
+🔗 LinkedIn: [(https://www.linkedin.com/in/khmaksudulalam/)] 
 🌍 Website: [yourwebsite.com](https://maksudulalam.com)  
